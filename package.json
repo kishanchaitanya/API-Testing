@@ -1,0 +1,19 @@
+{
+  "name": "graphql-and-rest-api-testing",
+  "version": "1.0.0",
+  "description": "GraphQl and Rest Api Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishanchaitanya/GraphQL-and-Rest-API-Testing.git"
+  },
+  "author": "Kishan Chaitanya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kishanchaitanya/GraphQL-and-Rest-API-Testing/issues"
+  },
+  "homepage": "https://github.com/kishanchaitanya/GraphQL-and-Rest-API-Testing#readme"
+}
