@@ -1,1 +1,1 @@
-# GraphQL-and-Rest-API-Testing
+# API-Testing
