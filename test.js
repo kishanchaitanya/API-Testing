@@ -11,10 +11,10 @@ describe('Random Dog API', () => {
         let response = await randomDog
                             .get('/woof.json')
                             .then(response => {
-                                return response.body;
+                                return response;
                             });
-        
-        console.log("response = " + JSON.stringify(response));
+        expect(response.status, 'Status Successful').to.equal(200);
+        expect(response.body.url, 'Url Contains').to.contains('https://random.dog/');
         
     });
 });
