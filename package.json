@@ -1,14 +1,10 @@
 {
-  "name": "graphql-and-rest-api-testing",
+  "name": "api-testing",
   "version": "1.0.0",
   "description": "Api Testing",
   "main": "test.js",
   "scripts": {
     "test": "mocha"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kishanchaitanya/GraphQL-and-Rest-API-Testing.git"
   },
   "author": "Kishan Chaitanya",
   "license": "ISC",
